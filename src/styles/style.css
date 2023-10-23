@@ -1,0 +1,18 @@
+.navstyle {
+  background-color: rgb(101, 30, 168) !important;
+}
+.textstyle {
+  color: white !important;
+}
+#basic-nav-dropdown {
+  color: white !important;
+}
+.bio {
+  text-align: center;
+  padding: 20px;
+}
+.headshot {
+  padding: 20px;
+  height: 300px;
+  width: auto;
+}
